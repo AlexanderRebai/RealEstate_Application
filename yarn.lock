@@ -926,7 +926,7 @@
     "@emotion/types" "^0.6.2"
     "@emotion/utils" "^0.6.1"
 
-"@emotion/styled@^11.0.0":
+"@emotion/styled@^11.0.0", "@emotion/styled@^11.9.3":
   "integrity" "sha512-o3sBNwbtoVz9v7WB1/Y/AmXl69YHmei2mrVnK7JgyBJ//Rst5yqPZCecEJlMlJrFeWHp+ki/54uN265V2pEcXA=="
   "resolved" "https://registry.npmjs.org/@emotion/styled/-/styled-11.9.3.tgz"
   "version" "11.9.3"
